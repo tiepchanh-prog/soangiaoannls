@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Hoàng Đức Tiệp - Trường PTDTBT Tiểu học Thông Nguyên - ĐT: 0329 863 168</p>
+    <p>Tác giả: Hoàng Đức Tiệp - Trường Tiểu học Thông Nguyên - ĐT: 0329 863 168</p>
 </div>
 """, unsafe_allow_html=True)
 
