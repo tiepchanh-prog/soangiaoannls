@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Hoàng Đức Tiệp - Trường PTDTBT Tiểu học Thông Nguyên - ĐT: 0329 863 168</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Hoàng Đức Tiệp - Trường Tiểu học Thông Nguyên - ĐT: 0329 863 168</div>", unsafe_allow_html=True)
